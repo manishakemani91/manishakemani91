@@ -1,12 +1,10 @@
-##**Summary**
-
+**Summary**
 Professional Full stack developer with 6 years of experience in IT Industry. Currently working on designing, developing and deploying web based applications developed with Javascript framework like angular and Microsoft technologies.
 
-##Work Experience 
+**Work Experience**
 
-##Senior Analyst|Barclays Investment Bank|Aug 2019 - Present
-###Analyst|Barclays Investment Bank|Jan 2018 - Jul 2019
-
+**Senior Analyst|Barclays Investment Bank|Aug 2019 - Present**
+**Analyst|Barclays Investment Bank|Jan 2018 - Jul 2019**
 I am responsible for end to end development for the Suitability Exchange Tool, an application built for Barclays investment baking division to assist with pre-market trade. This application provides improved functionality, better accessibility and intuitive user experience to Investment banking customers. I designed the RESTful micro-service architecture with nodeJS. This application is first in the business unit hosted on PasS infrastructure with on docker containers on RedHat OpenShift. I designed and implemented a custom CICD pipeline to build and deploy docker container pods with application code on open shift platform and maven Registry. Provide mentoring for new joiners within the team and fully engaged with the technology office and business resources.
 
 Designed and developed multiple models for Credit Risk Portal. This portal enabled the accurate
@@ -18,15 +16,14 @@ Analyzing and reviewing business functional and technical requirements and creat
      
 Explore and learn new technology in a fast paired environment and played a vital role on crucial module development. research and development initiatives with the architecture team to provide a cost effective solution to make project development faster and easier. worked in a highly professional manner and was focused to provide excellent client interactions, even during high-stress deliveries. experiences in JavaScript, Angular, HTML, CSS, Java, Apache Wicket in various projects.
 
-###Education
-
+**Education**
 Bachelor of Technology (BTech), Computer Science from Ganpat University in year 2013.
 
-###Licenses & Certifications MCSD 70-480 - Microsoft
-
+**Licenses & Certifications**
+MCSD 70-480 - Microsoft
 M101JS: MongoDB for Node.js Developer - MongoDB 
 
-###Tools & Technologies
+**Tools & Technologies**
 Programming Languages – Angular2, HTML, CSS, Bootstrap, saas, NodeJS, C#, .net Operating systems – RHEL, Ubuntu, Windows Server
 Containers - Docker, Openshift
 CICD - Jenkins, groovy
@@ -34,6 +31,6 @@ Database – SQL Server, Oracle, MongoDB
 SCM - GitHub, Microsoft team foundation server, tortoise svn IDE - Visual Studion IDE, VSCode, Fiddle, Postman, SOAPUI Agile Tools - Jira, Rally
 Cloud- Openshift
 
-###Honors & Awards
+**Honors & Awards**
 Barclays Global Value Award for Excellence - Barclays 2019
 Spot Award - Barclays 2018
