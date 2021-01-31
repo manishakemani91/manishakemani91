@@ -10,8 +10,8 @@ I am responsible for end to end development for the Suitability Exchange Tool, a
 Designed and developed multiple models for Credit Risk Portal. This portal enabled the accurate
 credit score calculation for bank loan application. In this development, I contributed several reusable components built with Angular and Bootstrap that are shared with multiple applications. Migrated legacy application components to responsive .net web services that improved application response time and reliability. All activities and duties are carried out in compliance with regulatory requirements. Actively worked with the lead engineer in defining and suggesting architectural principles and standards.
 
-###Senior Software Engineer|LTI - Larsen & Toubro Infotech|Aug 2017 - Jan 2018<br />
-###Software Engineer|LTI - Larsen & Toubro Infotech|Jan 2014 - Aug 2017<br />
+**Senior Software Engineer|LTI - Larsen & Toubro Infotech|Aug 2017 - Jan 2018**<br />
+**Software Engineer|LTI - Larsen & Toubro Infotech|Jan 2014 - Aug 2017**<br />
 Analyzing and reviewing business functional and technical requirements and creating a plan for executing on those. Document and develop code according to specifications and standards. responsible for development work in Angular/ AngularJS, HTML, CSS and services using C# by keeping screen render time to milliseconds. participate in team meetings and communicate effectively with peers, architects, business analysts, project managers, quality assurance analysts and across other technology team boundaries. Participate in mentoring new joins and freshers by helping in technical onboarding. involved in DevOps activities to make procession release flawless.
      
 Explore and learn new technology in a fast paired environment and played a vital role on crucial module development. research and development initiatives with the architecture team to provide a cost effective solution to make project development faster and easier. worked in a highly professional manner and was focused to provide excellent client interactions, even during high-stress deliveries. experiences in JavaScript, Angular, HTML, CSS, Java, Apache Wicket in various projects.
