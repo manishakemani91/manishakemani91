@@ -1,10 +1,10 @@
-###Summary
+##**Summary**
 
 Professional Full stack developer with 6 years of experience in IT Industry. Currently working on designing, developing and deploying web based applications developed with Javascript framework like angular and Microsoft technologies.
 
-###Work Experience 
+##Work Experience 
 
-###Senior Analyst|Barclays Investment Bank|Aug 2019 - Present
+##Senior Analyst|Barclays Investment Bank|Aug 2019 - Present
 ###Analyst|Barclays Investment Bank|Jan 2018 - Jul 2019
 
 I am responsible for end to end development for the Suitability Exchange Tool, an application built for Barclays investment baking division to assist with pre-market trade. This application provides improved functionality, better accessibility and intuitive user experience to Investment banking customers. I designed the RESTful micro-service architecture with nodeJS. This application is first in the business unit hosted on PasS infrastructure with on docker containers on RedHat OpenShift. I designed and implemented a custom CICD pipeline to build and deploy docker container pods with application code on open shift platform and maven Registry. Provide mentoring for new joiners within the team and fully engaged with the technology office and business resources.
